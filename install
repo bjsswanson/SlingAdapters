@@ -1,0 +1,2 @@
+mvn package sling:install -Dsling.url=http://127.0.0.1:5502/system/console -Dsling.username=admin -Dsling.password=admin
+mvn package sling:install -Dsling.url=http://127.0.0.1:5503/system/console -Dsling.username=admin -Dsling.password=admin
